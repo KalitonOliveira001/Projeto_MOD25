@@ -1,0 +1,7 @@
+br/com/rpires/ClienteServiceTest.class
+br/com/rpires/AllTests.class
+br/com/rpires/VendaDAOTest.class
+br/com/rpires/ProdutoDAOTest.class
+br/com/rpires/ProdutoServiceTest.class
+br/com/rpires/ClienteDAOTest.class
+br/com/rpires/VendaServiceTest.class
